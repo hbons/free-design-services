@@ -1,0 +1,29 @@
+name: "3. Flathub Review"
+description: Request a Flathub review for your project
+title: "Flathub review for "
+labels: ["flathub-review"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "Project URL"
+      placeholder: Homepage, Flathub page, or source code
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: The project…
+      options:
+        - label: uses an OSI approved [license]()
+          required: false
+        - label: is published on [Flathub](), or intends to be
+          required: false
+        - label: is not vibe-coded slop or crypto/gambling
+          required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+    validations:
+      required: false

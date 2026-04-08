@@ -1,0 +1,32 @@
+name: "1. App Icon"
+description: Request an app icon for your project
+title: "App icon for "
+labels: ["app-icon"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "Project URL"
+      placeholder: Homepage, Flathub page, or source code
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: The project…
+      options:
+        - label: uses an OSI approved [license]()
+          required: false
+        - label: is published on [Flathub](), or intends to be
+          required: false
+        - label: is not vibe-coded slop or crypto/gambling
+          required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      value: |
+        Any metaphors/colours that you like?
+        What makes your project different to similar apps?
+    validations:
+      required: false

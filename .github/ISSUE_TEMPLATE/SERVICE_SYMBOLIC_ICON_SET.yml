@@ -1,0 +1,31 @@
+name: "2. Symbolic Icon Set"
+description: Request a symbolic icon set for your project
+title: "Symbolic icon set for "
+labels: ["symbolic-icon-set"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "Project URL"
+      placeholder: Homepage, Flathub page, or source code
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: The project…
+      options:
+        - label: uses an OSI approved [license]()
+          required: false
+        - label: is published on [Flathub](), or intends to be
+          required: false
+        - label: is not vibe-coded slop or crypto/gambling
+          required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      value: |
+        List up to 9 icon requests
+    validations:
+      required: false

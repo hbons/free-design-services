@@ -1,6 +1,6 @@
 # [Free Design Services](https://planetpeanut.studi/services)
 
-Hello! I'm [Hylke](). I provide free design services for ***Free and Open Source*** projects.
+Hello! I'm [Hylke](https://planetpeanut.studio). I provide free design services for ***Free and Open Source*** projects.
 
 ![Banner](.github/services.png)
 

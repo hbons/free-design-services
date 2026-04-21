@@ -4,8 +4,6 @@ Hello! I'm [Hylke](https://planetpeanut.studio). I provide free design services 
 
 ![Banner](.github/services.png)
 
-<!-- Add a graphical banner here, combine website service graphics -->
-
 Made possible by [community sponsors](https://planetpeanut.studio/sponsors). You don't need to be a sponsor to request a service, but even a [$1 / month](https://planetpeanut.studio/sponsors) sponsorship does add up!
 
 Your project is elligible when it:
@@ -20,7 +18,7 @@ Your project is elligible when it:
 
 I'll create an icon for your app using GNOME's <a href="https://developer.gnome.org/hig/guidelines/app-icons.html">App Icon guidelines</a>.
 
-[Details](https://planetpeanut.studio/services#app-icons) | [Request for free →](https://github.com/hbons/free-services/issues/new?template=TEST.yml)
+[Details](https://planetpeanut.studio/services#app-icons) | [Examples](https://planetpeanut.studio/icons) | [Request for free →](https://github.com/hbons/free-services/issues/new?template=TEST.yml)
 
 <br>
 
@@ -28,7 +26,7 @@ I'll create an icon for your app using GNOME's <a href="https://developer.gnome.
 
 I'll create a symbolic icon set for your app using GNOME's <a href="https://developer.gnome.org/hig/guidelines/app-icons.html">UI Icon guidelines</a>.
 
-[Details](https://planetpeanut.studio/services#symbolic-icon-sets) | [Request for free →](https://github.com/hbons/free-services/issues/new?template=TEST.yml)
+[Details](https://planetpeanut.studio/services#symbolic-icon-sets) | [Examples](https://planetpeanut.studio/icons)  | [Request for free →](https://github.com/hbons/free-services/issues/new?template=TEST.yml)
 
 <br>
 
